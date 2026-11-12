@@ -1,6 +1,6 @@
 import unittest
 
-# Application code
+
 def add(a, b):
     return a + b
 
